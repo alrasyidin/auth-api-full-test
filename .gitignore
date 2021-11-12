@@ -1,0 +1,6 @@
+node_modules
+coverage
+.env
+authapiappserver.pem
+pnpm-lock.yaml
+config/database/test.json
