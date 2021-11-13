@@ -3,4 +3,5 @@ coverage
 .env
 authapiappserver.pem
 pnpm-lock.yaml
+package-lock.json
 config/database/test.json
